@@ -1,0 +1,8 @@
+<config>
+  <modules>
+    <Tyny_Directory>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Tyny_Directory>
+  </modules>
+</config>
